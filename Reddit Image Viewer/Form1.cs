@@ -75,7 +75,8 @@ namespace Reddit_Image_Viewer
 
             Console.Write("");
 
-            // pictureBox1.Load();
+            pictureBox1.Load(JSONResult.First().Key);
+            label1.Text = JSONResult.First().Value;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
