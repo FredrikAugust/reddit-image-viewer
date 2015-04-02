@@ -39,7 +39,7 @@
             // 
             this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(505, 381);
+            this.pictureBox1.Size = new System.Drawing.Size(839, 517);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -47,7 +47,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 399);
+            this.button1.Location = new System.Drawing.Point(18, 535);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 65);
             this.button1.TabIndex = 1;
@@ -57,7 +57,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(420, 399);
+            this.button2.Location = new System.Drawing.Point(751, 535);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 65);
             this.button2.TabIndex = 2;
@@ -69,7 +69,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
-            this.label1.Location = new System.Drawing.Point(118, 414);
+            this.label1.Location = new System.Drawing.Point(124, 553);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 24);
             this.label1.TabIndex = 3;
@@ -79,7 +79,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(529, 476);
+            this.ClientSize = new System.Drawing.Size(863, 612);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
